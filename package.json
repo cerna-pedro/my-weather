@@ -1,0 +1,16 @@
+{
+  "name": "my-weather",
+  "version": "1.0.0",
+  "description": "Weather app that shows the current weather for your current location.",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Pedro Cerna",
+  "license": "ISC",
+  "homepage": "https://cerna-pedro.github.io/my-weather",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
